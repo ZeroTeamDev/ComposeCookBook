@@ -1,53 +1,43 @@
-﻿<h1 align="center">ComposeCookBook</h1>
+﻿<h1 align="center">Appdexer Template</h1>
 
 <div align="center">
-  <strong>Declarative UI with AI-Powered Development</strong>
+  <strong>🤖 AI-Powered Android Development Base Project</strong>
 </div>
 <div align="center">
-  A Collection of all Jetpack compose UI elements, Layouts, Widgets and Demo screens combined with AI-powered development workflows.
+  Dự án base tối ưu cho việc tạo các ứng dụng Android mới một cách dễ dàng với sự hỗ trợ của AI
 </div>
 <br />
-<div align="center">
- <img src = "https://github.com/Gurupreet/ComposeCookBook/blob/master/screens/composelogo.png" width = "300px"/>
-</div>
 
 <br />
 
-<div align="center">
+## 🎯 Giới Thiệu
 
-<a href="https://github.com/Gurupreet/ComposeCookBook/releases/download/latest-master/app-debug.apk" >
-      <img src = "https://img.shields.io/badge/Master-Master?color=7885FF&label=Sample%20App&logo=android&style=for-the-badge" />
-    </a>
-    <a href = "https://developer.android.com/jetpack/androidx/versions/all-channel#december_16_2020">
-      <img src = "https://img.shields.io/badge/Jetpack%20Compose-1.0.1-brightgreen" />
-    </a>
-  <a href = "https://github.com/Gurupreet/ComposeCookBook/actions/workflows/android.yml">
-      <img src = "https://github.com/Gurupreet/ComposeCookBook/actions/workflows/android.yml/badge.svg" />
-  </a>
-  <a href = "https://github.com/Gurupreet/ComposeCookBook/network/">
-    <img src = "https://img.shields.io/github/forks/Gurupreet/ComposeCookBook" />
-  </a>
-  <a href = "https://github.com/Gurupreet/ComposeCookBook/stargazers">
-     <img src = "https://img.shields.io/github/stars/Gurupreet/ComposeCookBook" />
-  </a>
-  <a href = "https://github.com/Gurupreet/ComposeCookBook/issues">
-     <img src = "https://img.shields.io/github/issues/Gurupreet/ComposeCookBook" />
-  </a>  
-    <a href = "https://github.com/Gurupreet/ComposeCookBook/blob/master/LICENSE">
-     <img src = "https://img.shields.io/github/license/Gurupreet/ComposeCookBook" />
-  </a> 
-  <a href = "https://twitter.com/_gurupreet">
-     <img src = "https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_gurupreet" />
-  </a>
-</div>
+**Appdexer Template** là một dự án base được thiết kế đặc biệt để hỗ trợ việc tạo các ứng dụng Android mới một cách nhanh chóng và hiệu quả với sự hỗ trợ của AI. Dự án này không chỉ là một collection của các UI components mà còn là một hệ sinh thái hoàn chỉnh với:
 
-# Jetpack Compose
-Jetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+- 🧠 **AI-Powered Workflows** - Quy trình phát triển được tối ưu cho AI
+- 🎨 **Rich UI Components** - Bộ sưu tập đầy đủ các Jetpack Compose components
+- 🏗️ **Project Templates** - Templates sẵn sàng cho các loại ứng dụng khác nhau
+- 🤖 **Smart Code Generation** - Tự động tạo code dựa trên patterns và best practices
+- 📱 **Demo Applications** - Các ứng dụng mẫu hoàn chỉnh để tham khảo
 
-### Jetpack compose for Desktop:
-[Compose Spotify Desktop](https://github.com/Gurupreet/ComposeSpotifyDesktop)
-### FontAwesomeIcons in Compose:
-[FontAwesome Icon Library ](https://github.com/Gurupreet/FontAwesomeCompose)
+## 🚀 Tại Sao Chọn Appdexer Template?
+
+### ✨ Tối Ưu Cho AI Development
+- **Review Gate V2**: Tiết kiệm request với Review Gate Extension
+- **Context7 Integration**: Tối ưu context trên TRAE
+- **Design-to-Code**: Tự động chuyển đổi design thành code
+
+### 🎨 UI Components Phong Phú
+- **40+ Jetpack Compose Components** sẵn sàng sử dụng
+- **Demo Apps**: Spotify, Instagram, Twitter, Gmail, TikTok...
+- **Animation Examples**: Từ cơ bản đến nâng cao
+- **Theme System**: Dark/Light mode support
+
+### 🏗️ Architecture Chuẩn
+- **Clean Architecture** với MVVM pattern
+- **Modular Structure** dễ mở rộng
+- **Dependency Injection** với Hilt
+- **Testing Setup** hoàn chỉnh
 
 ## 🎨 UI Showcase
 
@@ -56,11 +46,7 @@ List & Layouts             |  Widgets and building blocks| Animations | Theme
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
 ![](https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif)  |  ![](https://media.giphy.com/media/RkEyxCn43aX1MoIdcx/giphy.gif) | ![](https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif) | ![](https://media.giphy.com/media/kPt0nCCWAcahhJsJh6/giphy.gif)
 
-Flinger                    |   
-:-------------------------:|
-![](https://media.giphy.com/media/OLa80kZcBXLEZlKiFY/giphy.gif) | 
-
-### Demo UI Applications
+### Demo Applications
 Spotify             |  Instagram Demo | Twitter, Gmail, Youtube                       | Profile
 :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------:
 ![](https://media.giphy.com/media/IddlpOpdboqJwdhxMS/giphy.gif)  |  ![](https://media.giphy.com/media/XSh4SKvAgr6Moj3SDH/giphy.gif) | ![](https://media.giphy.com/media/sEe1vREivaK7ieMPYj/giphy.gif) | ![](https://media.giphy.com/media/n3UTF9SzLpBGneFyj3/giphy.gif)
@@ -69,501 +55,284 @@ Gmail full             |  Tiktok             |  Meditation
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://media.giphy.com/media/hrOVD7rbST5shclGkQ/giphy.gif)  |  ![](https://media.giphy.com/media/cimocpJnmSBeJIPxu2/giphy.gif)  |  ![](https://media.giphy.com/media/4ijPfCItGfgdGJmTfA/giphy.gif)
 
-### Apps with Api, Retrofit, Room, Flow, Livedata Integration
+### Apps with Full Integration
 CryptoApp MVVM             |  MovieApp MVI              | Dating APP DEMO UI         | Betty
 :-------------------------:|:-------------------------: | :-------------------------:|:-------------------------:
 ![](https://media.giphy.com/media/OtJXUCh2ITINfKuTc0/giphy.gif)  |  ![](https://media.giphy.com/media/BfHMR2EMJkzB1agvpk/giphy.gif) | ![](https://media.giphy.com/media/tVXmwM2ryGlhCcf3Kl/giphy.gif) | ![](https://media.giphy.com/media/Ejeqq59zW3malZ88Si/giphy.gif)
 
-### Advance lists and animations
-Shimmer Lists             | List Scroll Animations
-:-------------------------:|:-------------------------: 
-![](https://media.giphy.com/media/VQof1yEEbEgcqgY7WW/giphy.gif)  |  ![](https://media.giphy.com/media/hhpnI1beJr6gRi4btK/giphy.gif)
-
-### Templates
-Adding card details        | CaseCade Menu
-:-------------------------:| :-------------------------: 
-![](https://user-images.githubusercontent.com/8813304/112016144-1e21ef00-8b35-11eb-8c33-362c8cbe6c0d.gif)  | ![](https://media.giphy.com/media/WoFe2OZ7kbW2KBkzFN/giphy.gif) 
-
 ## 🤖 AI-Powered Development Workflows
 
-### Ví dụ sử dụng:
+### 🧪 Quy Trình Phát Triển Với AI
 
-#### 🧪 Test quy trình
-
-`Tôi muốn kiểm tra quy trình của bạn, giả sử tôi có ý tưởng làm ứng dụng học tập, thì các bước của bạn sẽ làm gì?`
-
-#### 🧠 Brainstorm cho dự án mới
-
-`Tôi có ý tưởng làm ứng dụng thời tiết AI hãy brainstorm`
-
-#### 🧠 Nâng cấp tính năng cho dự án sẵn có
-
-`Từ project hiện tại tôi muốn nâng cấp tính năng AI hãy rà soát và lên kế hoạch`
-
-#### 🧑‍🎨 Tạo prompt từ UI Design
-
-`Phân tích các thiết kế trong design/ theo quy trình design-to-prompt`
-
-### 📝 Tạo các file instruction cho từng module
-
+#### 1. Brainstorm Ý Tưởng
 ```bash
-README.md Từ kịch bản này hãy thiết kế instruction cho từng phần của ứng dụng, bạn có thể tạo instruction cho các module, mỗi phần sẽ có 1 file instruction .md riêng sau đó được liên kết từ Instruction.md chính. Instruction.md sẽ là outline, để 1 AI sẽ thực hiện lần lượt các phần sao cho thành 1 sản phẩm hoàn chỉnh. Theo logic là mỗi lần thực hiện 1 nhiệm vụ nào đó thì AI sẽ đọc file Instruction.md và truy cập vào các instruction con theo từng nhiệm vụ cụ thể. Các instruction cần chia nhỏ ra từng phần và liên kết với nhau thông qua Instruction.md
+💬 "Tôi muốn tạo ứng dụng học tập cho sinh viên"
+
+🤖 AI sẽ:
+- Phân tích target audience
+- Đề xuất features chính
+- Research competitors
+- Tạo project roadmap
 ```
 
-### 🤖 Context7 Auto-Check Workflow
-
-**Tự động kiểm tra context dự án mà không cần yêu cầu cụ thể**
-
+#### 2. Design-to-Code Workflow
 ```bash
-# Workflow sẽ tự động:
-# 1. Scan tech stack từ package files
-# 2. Query Context7 MCP cho latest docs & best practices  
-# 3. Cache context cho session hiện tại
-# 4. Apply context-aware suggestions
-# 5. Update project knowledge base
+💬 "Phân tích design trong thư mục design/ và tạo instruction"
 
-# Ví dụ sử dụng:
-"Tôi muốn thêm authentication cho app React này"
-# → Auto detect React version & related libraries
-# → Query Context7 cho React auth patterns
-# → Suggest best practices cho current stack
-# → Provide up-to-date implementation guide
+🤖 AI sẽ:
+- Scan design files (Figma, PNG, JPG)
+- Phân tích UI patterns
+- Tạo component structure
+- Generate implementation plan
 ```
 
-**Xem chi tiết**: [Context7 Implementation Guide](instructions/workflows/context7-implementation-guide.md)
+#### 3. Modular Development
+```bash
+💬 "Tạo instruction cho từng module của ứng dụng"
 
-## ⚠️⚠️⚠️ Cảnh Báo
-
-- Các thư mục chính là .cursor, .github, .appdexer, .trae và tools, scripts sẽ được cập nhật thường xuyên, chỉ cần copy đè lên là xong.
-
-## Extension bổ sung
-
-https://marketplace.cursorapi.com/items?itemName=iganbold.yoyo-ai-versioning
-
-- Quản lý version local, hỗ trợ thêm khi code bằng AI
-
-## Nguyên tắc
-
-- Fix các bug nhỏ, code giao diện -> TRAE
-- Code phức tạp, code sâu -> Cursor
-
-## Cấu hình telegram
-
-scripts/config/telegram_config.py
-
-## ✨ Tính Năng Chính
+🤖 AI sẽ tạo:
+- Instruction.md (outline chính)
+- Module-specific instructions
+- Database schema
+- API integration plans
+```
 
 ### 🎯 Review Gate V2 Integration
 
-- **Interactive Loop**: AI chờ feedback từ bạn thông qua text, voice, hoặc image upload
-- **5x Request Value**: Một request chính có thể thực hiện công việc của 5 request riêng lẻ
-- **Deep Iteration**: Sử dụng đầy đủ 25 tool calls trong một session
-- **Multi-modal Input**: Hỗ trợ text, voice-to-text, và image analysis
+**Interactive Development Loop** - AI chờ feedback từ bạn:
+- 📝 **Text Input**: "Thêm dark mode support"
+- 🎤 **Voice Commands**: "Setup authentication module"
+- 🖼️ **Image Upload**: Screenshots để debug hoặc design reference
+- 🔄 **Continuous Iteration**: Một request có thể thực hiện công việc của 5 request
 
-### 🧠 AI-Powered Features
+### 🧠 Context7 Auto-Check
 
-- **Design-to-Prompt**: Tự động phân tích design files và tạo instruction
-- **Competitor Analysis**: AI phân tích đối thủ cạnh tranh và đề xuất tính năng
-- **Smart Resource Management**: Tự động tải icons, cập nhật rules
+**Tự động cập nhật knowledge base:**
+```bash
+# AI tự động:
+# 1. Scan tech stack từ gradle files
+# 2. Query latest docs & best practices
+# 3. Cache context cho session
+# 4. Apply context-aware suggestions
+
+💬 "Thêm authentication cho app này"
+# → Auto detect current architecture
+# → Query best practices cho Android auth
+# → Suggest implementation phù hợp
+```
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-
-- **Android Studio Bumblebee latest Canary** [from here](https://developer.android.com/studio/preview/)
-- **JDK 11** to build this project
-- **Cursor IDE** với MCP support (for AI workflows)
-- **Python >= 3.9** (cho MCP server)
-- **Git**
+- **Android Studio Bumblebee** hoặc mới hơn
+- **JDK 11+**
+- **Cursor IDE** (cho AI workflows)
+- **Python 3.9+** (cho MCP server)
 
 ### 1. Clone & Setup
-
 ```bash
-git clone https://github.com/Gurupreet/ComposeCookBook.git
-cd ComposeCookBook
+git clone https://github.com/your-username/Appdexer Template.git
+cd Appdexer Template
+
+# Copy project structure cho dự án mới
+cp -r . /path/to/your-new-project/
 ```
 
-## 📚 Features & Where to start
-- **Widgets:** Widgets Screen show case all the available components to build UI.
-- **Home Screen:** Start with Layouts, Modifiers and Simple Listviews
-- **Demo UI:** Learn how demo UI have been made by using layouts, listviews and widgets.
-- **Animations:** Animations are very interesting in compose. Checkout single value animations to get started.
-- **UI Tests:** Checkout UI tests to understand how we can test compose UI.
-- **Others:** After the above steps feel free to deep dive into Tablayouts, carousel, Dialogs and BottomSheets
-
-### Kotlin DSL Templates
-You can find them in *buildSrc*
-- build.gradle
-- dependency
-- configurations
-
-## 🔮 Coming Soon
-- Some of the features that will be available in coming weeks
-  - Advance lists: Pull Refresh, Swipe lists etc
-  - Clean Architecture Sample with coroutines.
-  - Advance canvas drawing.
-    Much more in pipeline stay tuned!!
-
-## 📖 Official Documentations
-- Official Google Documentation
-  - [Compose Pathway](https://developer.android.com/courses/pathways/compose)
-  - [Jetpack compose](https://developer.android.com/jetpack/compose)
-  - [Jetpack compose Samples](https://github.com/android/compose-samples)
-
-- [Compose Academy ](https://compose.academy/)
-
-- [Composables](https://composables.com/)
-
-## 🤝 Contribution Info
-- All the contributions are welcomed keeping following points in mind.
-  - If it's a widget/tool/UI element newly added please add to Widget Screen
-  - Any feature showcase like Collapsing AppBar, BottomSheets, Dialogs etc add in HomeScreen list
-  - Any Demo UI please add to Demo UI section
-  - Try not to add new Icons/Images unless must be needed.
-  - Please make sure whatever you add also supports dark mode as well.
-    Thanks happy coding
-
-## Please Share & Star the repository to keep me motivated.
-  <a href = "https://github.com/Gurupreet/ComposeCookBook/stargazers">
-     <img src = "https://img.shields.io/github/stars/Gurupreet/ComposeCookBook" />
-  </a>
-  <a href = "https://twitter.com/_gurupreet">
-     <img src = "https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2F_gurupreet" />
-  </a>
-
----
-
-## 🔧 AI Development Setup
-
-### 2.
-
-Cài Extension Review Gate để tiết kiệm request Cursor trong thư mục
-
-1. Mở Cursor IDE
-2. Nhấn `Cmd+Shift+P`
-3. Gõ `Extensions: Install from VSIX`
-4. Chọn file: `./tools/Review-Gate/V2/review-gate-v2-2.6.3.vsix`
-5. Restart Cursor khi được yêu cầu
-
+### 2. Cài Đặt Review Gate V2
 ```bash
-./tools/Review-Gate/V2/review-gate-v2-2.6.3.vsix
-```
+# Cài extension trong Cursor
+# 1. Cmd+Shift+P
+# 2. "Extensions: Install from VSIX"
+# 3. Chọn: ./tools/Review-Gate/V2/review-gate-v2-2.6.3.vsix
 
-Bật MCP Server
-
-```bash
+# Setup MCP Server
 cd tools/Review-Gate/V2/
-./install.sh hoặc ./install.bat ( Window )
-```
+./install.sh  # hoặc ./install.bat trên Windows
 
-Bật MCP
-
-```bash
+# Start MCP
 python ./review_gate_v2_mcp.py
 ```
 
-#### Workflow Cơ Bản của Review Gate
-
-1. **Đưa ra yêu cầu chính**: "Tạo một React component với authentication"
-2. **AI thực hiện task**: Coding, analysis, tool calls
-3. **Review Gate popup xuất hiện**: AI chờ feedback từ bạn
-4. **Bạn có thể**:
-   - Gõ text: "Thêm validation cho form"
-   - Upload hình: Screenshot của error cần fix
-   - Nói: Click mic và nói "Add dark mode support"
-   - Kết thúc: Gõ "TASK_COMPLETE" khi hài lòng
-5. **AI tiếp tục**: Thực hiện sub-request và lặp lại
-
-#### Lệnh Kết Thúc
-
-Để kết thúc review loop, gõ một trong các từ:
-
-- `TASK_COMPLETE`
-- `Done`
-- `Quit`
-- `q`
-
-#### Shortcuts Hữu Ích
-
-- `Cmd+Shift+P`: Mở popup thủ công
-
-### 3. Initialize Your Project
-
-## 📖 Hướng Dẫn Sử Dụng
-
-### 🆕 Tạo Dự Án Mới
-
-#### Ví dụ: Tạo Android Weather App
-
-- Tự động
-
-1. **Setup Project Identity**
-   **_Mở android studio tạo project trống đè lên project base_**
-
-2. **Brainstorm với AI**
-
-```
-💬 User: "Tôi muốn tạo app thời tiết cho Android"
-
-🤖 AI: Tuyệt! Tôi sẽ giúp bạn brainstorm ý tưởng này. Trước tiên:
-
-1. App này dành cho đối tượng nào? (học sinh, người đi làm, nông dân...)
-2. Tính năng chính bạn muốn có là gì?
-3. Có muốn tích hợp AI không?
-
-[Review Gate V2 sẽ mở popup để bạn trả lời chi tiết]
-
-```
-
-3. **AI Phân Tích Design (nếu có)**
-
+### 3. Tạo Dự Án Đầu Tiên
 ```bash
-# Nếu bạn có design files trong thư mục design/
-Sử dụng quy trình design to prompt để phân tích thiết kế ./design/weather-app-mockup.png
-```
+💬 "Tôi muốn tạo ứng dụng [your-idea] cho Android"
 
-4. **Tạo Instruction Tự Động**
-   AI sẽ tạo các file instruction modular:
-
-- `Instruction.md` (outline chính)
-- `instructions/WeatherApp_Core_Instruction.md`
-- `instructions/WeatherApp_UI_Instruction.md`
-- `instructions/WeatherApp_AI_Instruction.md`
-
-5. **Begin Development**
-
-```bash
-# AI bắt đầu implement theo instruction
-# Review Gate V2 sẽ hỗ trợ iterative development
-```
-
-#### Output Example:
-
-```
-✅ Project Structure Created
-✅ Android Workflow Applied
-✅ Instruction Files Generated
-✅ Database Schema Created (db-schema.sql)
-✅ UI Components Planned
-✅ AI Features Integrated
-```
-
-### 🔧 Phát Triển Tính Năng Mới
-
-#### Ví dụ: Thêm Voice Search cho Weather App
-
-1. **Planning Phase**
-
-```
-💬 "Thêm tính năng voice search để tìm kiếm thành phố"
-
-🤖 AI (Planner):
-- Phân tích yêu cầu: Voice search cho location
-- Nghiên cứu best practices
-- Tạo plan chi tiết
-
-[AI sẽ tạo file: instructions/VoiceSearch_Feature_Instruction.md]
-```
-
-2. **Architecture Phase**
-
-```
-🤖 AI (Architect):
-- Speech-to-Text integration (Android SpeechRecognizer)
-- Location validation logic
-- UI components (FloatingActionButton + Animation)
-- Error handling cho offline/no-permission cases
-```
-
-3. **Builder Phase**
-
-```
-🤖 AI (Builder):
-- Implement VoiceSearchManager
-- Create UI components
-- Integrate with WeatherRepository
-- Add voice feedback
-```
-
-4. **Tester Phase**
-
-```
-🤖 AI (Tester):
-- Unit tests cho voice recognition
-- UI tests cho voice button
-- Integration tests
-- Performance testing
-```
-
-### ⬆️ Nâng Cấp Dự Án Hiện Có
-
-#### Ví dụ: Nâng cấp Weather App thêm AI Weather Assistant
-
-1. **AI Analysis Current Project**
-
-```
-🤖 AI: Trước khi bắt đầu nâng cấp, tôi cần hiểu rõ hơn về dự án hiện tại:
-
-🔍 Analyzing codebase...
-📁 Current structure: Android MVVM with Repository pattern
-🗃️ Database: Room + SQLite (weather_cache table)
-🌐 APIs: OpenWeatherMap, WeatherAPI
-⚡ Current features: Basic weather, 7-day forecast, location search
-
-Bạn muốn AI assistant có những chức năng gì?
-```
-
-2. **Create Upgrade Plan**
-
-```
-📋 Upgrade Plan: AI Weather Assistant
-├── 🧠 AI Integration (GPT-4 Weather Analysis)
-├── 💬 Chat Interface (Natural language queries)
-├── 🎯 Smart Recommendations (Clothing, activities)
-├── 🔄 Context-aware responses
-└── 🎨 Updated UI for chat interaction
-
-⚠️ Impact Analysis:
-- New dependency: OpenAI SDK
-- Database changes: conversation_history table
-- UI changes: ChatFragment + RecyclerView
-- Performance: API call optimization needed
-```
-
-3. **Safety Backup**
-
-```
-🔒 Creating backup...
-📁 _backups/2024-01-15/
-├── app/src/main/java/com/weather/
-├── app/src/main/res/
-└── app/build.gradle
-
-✅ Backup completed! Proceeding with upgrade...
-```
-
-4. **Incremental Implementation**
-
-```
-Phase 1: AI Integration
-✅ Added OpenAI SDK dependency
-✅ Created AIWeatherAssistant service
-⏳ Implementing chat UI...
-
-[Review Gate V2 cho phép bạn điều chỉnh real-time]
-
-💬 User: "Làm cho chat bubble có animation smooth hơn"
-🤖 AI: Đang cải thiện animation với Material Motion...
-```
-
-## 🎛️ Review Gate V2 Features
-
-### 📝 Text Input
-
-```
-💬 "Thêm dark mode support cho toàn bộ app"
-💬 "Optimize performance cho devices cũ"
-💬 "Add unit tests cho WeatherRepository"
-```
-
-### 🎤 Voice Commands
-
-```
-🗣️ "Setup routing cho settings screen"
-🗣️ "Phân tích design file mới nhất"
-```
-
-### 🖼️ Image Analysis
-
-- Upload mockups để AI analyze và implement
-- Share screenshots của bugs để AI debug
-- Provide reference designs từ apps khác
-
-### 🔄 Interactive Iteration
-
-```
-🤖 AI: Feature implemented!
-
-[Review Gate V2 popup opens]
-
-👤 User options:
-1. "TASK_COMPLETE" → Kết thúc session
-2. "Thêm animation" → Continue iteration
-3. Upload screenshot → Visual feedback
-4. Voice input → Quick adjustments
-```
-
-## 🛠️ Advanced Workflows
-
-### 🎯 Voice-First Development
-
-```bash
-# Common voice commands
-🗣️ "Tạo component header với navigation"
-🗣️ "Thêm dark mode support"
-🗣️ "Tìm weather icons cho mobile app"
-🗣️ "Setup database cho user preferences"
-🗣️ "Fix crash when location permission denied"
+# AI sẽ hướng dẫn bạn qua:
+# ✅ Project setup
+# ✅ Architecture planning  
+# ✅ UI component selection
+# ✅ Feature implementation
+# ✅ Testing & deployment
 ```
 
 ## 📁 Project Structure
 
 ```
-Base-AI-Project/
+Appdexer Template/
 ├── .cursor/
-│   ├── rules/                  # Workflow rules (40+ files)
-│   └── ReviewGateV2.mdc       # Main Review Gate configuration
-├── instructions/               # AI instruction files
-│   ├── setup/                 # Project setup guides
-│   ├── android/               # Android-specific instructions
-│   ├── ios/                   # iOS-specific instructions
-│   └── reusable/              # Reusable instruction templates
-├── experiences/               # Knowledge base từ past projects
-├── tools/                     # Development tools & scripts
-├── design/                    # Design files for analysis
-├── assets/                    # Icons, images, resources
-├── scripts/                   # Automation scripts
-├── .project-identity          # Project type detection
-├── .project-personality       # AI personality configuration
-├── db-schema.sql             # Database schema management
-└── README.md                 # This file
+│   ├── rules/                  # 40+ AI workflow rules
+│   └── ReviewGateV2.mdc       # Review Gate configuration
+├── app/                       # Main application module
+├── core/                      # Core modules
+│   ├── common/               # Common utilities
+│   ├── design-system/        # Design system components
+│   ├── database/             # Database setup
+│   ├── network/              # Network layer
+│   └── ui/                   # Base UI components
+├── components/               # Reusable UI components
+│   ├── carousel/
+│   ├── charts/
+│   ├── colorpicker/
+│   ├── fab/
+│   └── tags/
+├── demos/                    # Demo applications
+│   ├── spotify/
+│   ├── instagram/
+│   ├── gmail/
+│   ├── tiktok/
+│   └── meditation/
+├── animations/               # Animation examples
+├── screens/                  # Screen examples
+├── instructions/             # AI instruction files
+├── tools/                    # Development tools
+├── design/                   # Design files
+└── scripts/                  # Automation scripts
 ```
+
+## 🎯 Các Tính Năng Chính
+
+### 📱 UI Components
+- **Layouts**: Column, Row, Box, LazyColumn, LazyRow
+- **Widgets**: Button, TextField, Card, Chip, FAB
+- **Navigation**: Bottom Navigation, Drawer, Tabs
+- **Animations**: Transition, AnimatedVisibility, Crossfade
+- **Charts**: Line, Bar, Pie charts
+- **Custom Components**: Color Picker, Carousel, Tags
+
+### 🏗️ Architecture Components
+- **MVVM Pattern** với ViewModel và LiveData
+- **Repository Pattern** cho data management
+- **Dependency Injection** với Hilt
+- **Room Database** cho local storage
+- **Retrofit** cho API calls
+- **Coroutines & Flow** cho async operations
+
+### 🤖 AI-Powered Features
+- **Smart Code Generation**: Tự động tạo boilerplate code
+- **Pattern Recognition**: Nhận diện và áp dụng best practices
+- **Automated Testing**: Tạo unit tests và UI tests
+- **Performance Optimization**: Đề xuất cải thiện performance
+- **Code Review**: Tự động review và suggest improvements
+
+## 📚 Hướng Dẫn Sử Dụng
+
+### 🆕 Tạo Dự Án Mới
+
+#### Ví dụ: Weather App
+```bash
+💬 "Tôi muốn tạo ứng dụng thời tiết với AI assistant"
+
+🤖 AI Workflow:
+1. 🧠 Brainstorm features & architecture
+2. 🎨 Analyze design requirements
+3. 🏗️ Setup project structure
+4. 📱 Implement core features
+5. 🧪 Add testing
+6. 🚀 Deployment preparation
+```
+
+#### Output:
+```
+✅ Project Structure Created
+✅ Weather API Integration
+✅ Location Services Setup
+✅ UI Components Generated
+✅ AI Chat Interface Added
+✅ Database Schema Created
+✅ Unit Tests Generated
+```
+
+### 🔧 Thêm Tính Năng Mới
+
+#### Ví dụ: Voice Search
+```bash
+💬 "Thêm voice search để tìm kiếm thành phố"
+
+🤖 AI sẽ:
+1. 📋 Plan voice integration
+2. 🎤 Setup Speech-to-Text
+3. 🔍 Implement search logic
+4. 🎨 Create voice UI
+5. 🧪 Add voice tests
+```
+
+### ⬆️ Nâng Cấp Dự Án
+
+#### Ví dụ: Thêm AI Features
+```bash
+💬 "Nâng cấp app thêm AI weather recommendations"
+
+🤖 AI sẽ:
+1. 🔍 Analyze current codebase
+2. 📋 Create upgrade plan
+3. 🔒 Backup existing code
+4. 🧠 Integrate AI services
+5. 🎨 Update UI for AI features
+```
+
+## 🛠️ Advanced Features
+
+### 🎤 Voice Commands
+```bash
+🗣️ "Tạo login screen với Material Design"
+🗣️ "Setup database cho user preferences"
+🗣️ "Thêm dark mode support"
+🗣️ "Fix crash khi mất kết nối internet"
+```
+
+### 🖼️ Design Analysis
+- Upload design files (Figma, PNG, JPG)
+- AI phân tích và tạo implementation plan
+- Tự động generate UI components
+- Suggest best practices cho responsive design
+
+### 📊 Performance Monitoring
+- Tự động detect performance bottlenecks
+- Suggest optimization strategies
+- Generate performance tests
+- Monitor app metrics
 
 ## 🎯 Best Practices
 
-### ✅ Do's
-
-- **Always start with brainstorming** - Đừng vội code
-- **Use Review Gate V2** cho mọi development session
-- **Follow 4-role workflow** (Planner → Architect → Builder → Tester)
-- **Voice commands** cho các tác vụ repetitive
-- **Backup before major changes** (automatic với workflow)
+### ✅ Nên Làm
+- **Luôn bắt đầu với brainstorming** trước khi code
+- **Sử dụng Review Gate V2** cho mọi development session
+- **Follow 4-role workflow**: Planner → Architect → Builder → Tester
+- **Backup trước khi thay đổi lớn** (tự động với workflow)
 - **Update instructions** song song với code
+- **Test trên nhiều devices** và screen sizes
 
-### ❌ Don'ts
-
-- **Đừng skip planning phase** để "code cho nhanh"
-- **Đừng ignore project identity** khi switch projects
-- **Đừng skip architect phase** - dẫn đến inconsistent code
-- **Đừng quên test** sau mỗi feature
-- **Đừng commit code** mà chưa review qua Review Gate
+### ❌ Không Nên
+- **Skip planning phase** để "code cho nhanh"
+- **Ignore project identity** khi switch projects
+- **Hardcode values** thay vì sử dụng resources
+- **Skip testing** sau mỗi feature
+- **Commit code** chưa qua review
 
 ## 🔧 Troubleshooting
 
-### ❓ Common Issues
+### ❓ Các Vấn Đề Thường Gặp
 
 **Q: Review Gate V2 không hoạt động?**
-
 ```bash
 # Check MCP connection
 @review_gate_chat "test connection"
 
-# Restart MCP server if needed
+# Restart MCP server
 npm run mcp:restart
 ```
 
 **Q: Voice commands không được nhận diện?**
-
 ```bash
 # Test voice system
 appdexer_test_voice_system --quick-test
@@ -571,36 +340,49 @@ appdexer_test_voice_system --quick-test
 # Check microphone permissions
 ```
 
-**Q: AI không follow instruction?**
-
+**Q: Build lỗi sau khi thêm component mới?**
 ```bash
-# Check project identity
-cat .project-identity
+# Clean và rebuild
+./gradlew clean
+./gradlew build
 
-# Verify instruction file format
-@appdexer_ai_analyze_context instructions/
+# Check dependencies conflicts
+./gradlew dependencies
 ```
 
 ## 🤝 Contributing
 
-### Cách Đóng Góp Workflow Mới
+### Đóng Góp Component Mới
+1. Tạo component trong thư mục `components/`
+2. Thêm vào Widget Screen để showcase
+3. Viết documentation và examples
+4. Đảm bảo support dark mode
+5. Thêm unit tests
 
+### Đóng Góp Workflow Mới
 1. Tạo file `.mdc` trong `.cursor/rules/`
 2. Follow cấu trúc có sẵn
-3. Test với ít nhất 2 project types khác nhau
+3. Test với ít nhất 2 project types
 4. Update documentation
 
 ### Báo Cáo Bug
-
 Sử dụng Review Gate V2 để upload screenshots + mô tả chi tiết.
 
-## 📚 Resources & References
+## 📚 Resources
 
-- **[Review-Gate Original](https://github.com/LakshmanTurlapati/Review-Gate)** - Inspiration source
-- **[Cursor IDE Documentation](https://cursor.sh/docs)** - Official docs
-- **[MCP Protocol](https://modelcontextprotocol.io/)** - Model Context Protocol
-- **Voice Commands Guide**: `instructions/voice-commands.md`
-- **Project Templates**: `docs/templates/`
+### Official Documentation
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Compose Pathway](https://developer.android.com/courses/pathways/compose)
+- [Compose Samples](https://github.com/android/compose-samples)
+
+### Community Resources
+- [Compose Academy](https://compose.academy/)
+- [Composables](https://composables.com/)
+
+### AI Development
+- [Cursor IDE Documentation](https://cursor.sh/docs)
+- [MCP Protocol](https://modelcontextprotocol.io/)
+- Voice Commands Guide: `instructions/voice-commands.md`
 
 ## 📄 License
 
@@ -608,59 +390,27 @@ MIT License - Feel free to use and modify for your projects.
 
 ---
 
-**🚀 Ready to 5x your development productivity?**
+## 🚀 Bắt Đầu Ngay!
 
-Start your first project with Review Gate V2 and experience the future of AI-assisted development!
+**Ready to 5x your Android development productivity?**
 
-```bash
-@review_gate_chat "Tôi muốn tạo app [your-idea] cho [platform]"
-```
-
-## 🎯 Tips Sử Dụng Hiệu Quả
-
-### Voice Commands
-
-- Nói rõ ràng và với tốc độ vừa phải
-- Dừng một chút giữa các từ quan trọng
-- Faster-Whisper hoạt động tốt với tiếng Anh tự nhiên
-
-### Image Context
-
-- Upload screenshots khi gặp lỗi visual
-- Chia sẻ mockups hoặc design references
-- Diagrams kiến trúc để AI hiểu được context
-
-### Text Prompts
-
-- Càng cụ thể càng tốt
-- Đề cập đến file/function names nếu có
-- Chia nhỏ requests phức tạp thành nhiều bước
-
-### Popup Không Xuất Hiện
-
-1. Kiểm tra extension đã install chưa
-2. Verify rule đã copy đúng chưa
-3. Restart Cursor hoàn toàn
-4. Test manual trigger: `Cmd+Shift+R`
-
-### Speech-to-Text Lỗi
+Start your first project with Appdexer Template and experience the future of AI-assisted development!
 
 ```bash
-# Test SoX
-sox --version
-sox -d -r 16000 -c 1 test.wav trim 0 3 && rm test.wav
+@review_gate_chat "Tôi muốn tạo app [your-idea] cho Android"
 ```
 
-### Extension Lỗi
+### 🎯 Tips Sử Dụng Hiệu Quả
 
-- Mở F12 trong Cursor để xem browser console
-- Uninstall và reinstall extension nếu cần
-- Check compatibility với Cursor version
+- **Voice Commands**: Nói rõ ràng với tốc độ vừa phải
+- **Image Context**: Upload screenshots khi gặp lỗi visual
+- **Text Prompts**: Càng cụ thể càng tốt
+- **Iterative Development**: Sử dụng Review Gate để refine từng bước
 
-## 📊 Lợi Ích
+**🌟 Star this repository để keep me motivated và nhận updates mới nhất!**
 
-### Tiết Kiệm Requests
-
-- Thay vì 5 requests riêng biệt → 1 request với 5 sub-prompts
-- Tận dụng tối đa 25 tool calls available per request
-- Hiệu quả hơn với monthly limit (~500 requests)
+<div align="center">
+  <a href = "https://github.com/Gurupreet/Appdexer Template/stargazers">
+     <img src = "https://img.shields.io/github/stars/Gurupreet/Appdexer Template" />
+  </a>
+</div>
